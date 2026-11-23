@@ -164,7 +164,7 @@ button:active {
 
 
 ## OUTPUT
-![Output](<output.png>)
+![Output](./output.png)
 
 ## RESULT
 
